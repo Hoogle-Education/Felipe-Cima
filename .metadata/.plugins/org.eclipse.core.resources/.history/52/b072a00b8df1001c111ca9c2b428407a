@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+
+		Scanner
+		
+		String name = "Joao";
+		int age = 10;
+		double gpa = 3.4;
+
+		System.out.println("The name is " + name);
+		
+	}
+
+}

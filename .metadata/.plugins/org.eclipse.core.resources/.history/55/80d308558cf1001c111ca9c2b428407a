@@ -1,0 +1,12 @@
+
+public class App {
+
+	public static void main(String[] args) {
+
+		String name = "Joao";
+		int age = 10;
+		double gpa = 3.4;		
+		
+	}
+
+}
